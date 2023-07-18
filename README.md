@@ -4,10 +4,10 @@ I  built a text editor that runs in the browser. The app is a single-page applic
 Used an IndexedDB database.The package is called `idb`, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 This app Creates notes or code snippets with or without an internet connection
 
-## Use
+## Use 
 
 
- *Text editor web application
+ * Text editor web application
 
 Open the application.
 You can see a client server folder structure
@@ -21,7 +21,7 @@ Click on the Install button
 
 https://shrouded-river-73319-c515f25bfa48.herokuapp.com/
 
-*GIT HUB Link
+* GIT HUB Link
 
 https://github.com/CouchNoemi/Text-Editor
 
